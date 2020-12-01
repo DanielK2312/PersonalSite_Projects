@@ -51,3 +51,11 @@ def route():
 
 if __name__ == "__main__":
     app.run(debug=True)
+
+
+'''
+git status
+git add .
+git commit -m "Message"
+git push origin main
+'''
